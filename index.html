@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Catálogo de Perfumes</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="container">
+    <h2>Catálogo de Perfumes</h2>
+    <div id="listaPerfumes" class="perfume-list"></div>
+
+    <h3>Sortear por Categoria</h3>
+    <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
+      <button onclick="sortearCategoria('VERSATIL')">🎯 Versátil</button>
+      <button onclick="sortearCategoria('ENCONTRO')">💘 Encontro</button>
+      <button onclick="sortearCategoria('FESTA')">🎉 Festa</button>
+    </div>
+    <p id="sorteioResultado"></p>
+  </div>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
