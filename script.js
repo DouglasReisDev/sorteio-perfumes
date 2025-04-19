@@ -88,7 +88,7 @@ const perfumes = [
     { marca: "Azza parfums", nome: "vibration", categoria: "VERSATIL" },
     { marca: "Afnan", nome: "9.A.M", categoria: "VERSATIL" },
     { marca: "In the box", nome: "Essenza Nobile", categoria: "VERSATIL" },
-    { marca: "", nome: "Essenza Nobile", categoria: "VERSATIL" },
+    
 ];
 
 function atualizarLista() {
