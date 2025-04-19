@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(to right, #000000, #c5b4b4);
+  background: linear-gradient(to right, #000000, #888585);
   display: flex;
   justify-content: center;
   align-items: start;
@@ -9,7 +9,7 @@ body {
 }
 
 .container {
-  background: #976969;
+  background: #bdbdbd;
   padding: 25px;
   width: 100%;
   max-width: 500px;
@@ -27,14 +27,14 @@ button {
   border-radius: 6px;
   font-size: 16px;
   cursor: pointer;
-  background: #007bff;
+  background: #020f1d;
   color: white;
   transition: background 0.3s ease;
   flex: 1 1 100px;
 }
 
 button:hover {
-  background: #0056b3;
+  background: #28a745
 }
 
 .perfume-list {
