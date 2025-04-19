@@ -19,7 +19,6 @@ const perfumes = [
     { marca: "Azza parfums", nome: "Be intense", categoria: "VERSATIL" },
     { marca: "Thera Cosméticos", nome: "Volcano", categoria: "VERSATIL" },
     { marca: "Thera Cosméticos", nome: "Hazor", categoria: "ENCONTRO" },
-    { marca: "Thera Cosméticos", nome: "Hazor", categoria: "ENCONTRO" },
     { marca: "Thera Cosméticos", nome: "Drago", categoria: "VERSATIL" },
     { marca: "Thera Cosméticos", nome: "Liber", categoria: "VERSATIL" },
     { marca: "Thera Cosméticos", nome: "Fadin", categoria: "VERSATIL" },
