@@ -5,7 +5,6 @@ const perfumes = [
     { marca: "Sacratu", nome: "Aron", categoria: "VERSATIL" },
     { marca: "Sacratu", nome: "The Wild", categoria: "FESTA" },
     { marca: "Valentino Viegas", nome: "legend", categoria: "VERSATIL" },
-    { marca: "Azza parfums", nome: "kato", categoria: "VERSATIL" },
     { marca: "In the box", nome: "the real commander", categoria: "FESTA" },
     { marca: "In the box", nome: "Tersus parfum", categoria: "VERSATIL" },
     { marca: "In the box", nome: "lemon vanilla e wood", categoria: "VERSATIL" },
