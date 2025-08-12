@@ -1,4 +1,6 @@
 const perfumes = [
+    { marca: "Nuancielo", nome: "Éclat Vanille", categoria: "ENCONTRO" },
+    { marca: "Nuancielo", nome: "Zion Sanctus", categoria: "VERSATIL" },
     { marca: "In the box", nome: "Codex supreme", categoria: "ENCONTRO" },
     { marca: "Valentino Viegas", nome: "Aventador", categoria: "VERSATIL" },
     { marca: "Valentino Viegas", nome: "Ocean pour homme", categoria: "VERSATIL" },
