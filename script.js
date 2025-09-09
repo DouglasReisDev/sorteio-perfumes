@@ -34,7 +34,6 @@ const perfumes = [
     { marca: "Vivant", nome: "l'home cologne", categoria: "VERSATIL" },
     { marca: "Vivant", nome: "l'home L'eau", categoria: "VERSATIL" },
     { marca: "Natura", nome: "Homem Essence", categoria: "VERSATIL" },
-    { marca: "AL HARAMAIN", nome: "la Venture knight", categoria: "VERSATIL" },
     { marca: "Orientica", nome: "Xclusif  oud", categoria: "ENCONTRO" },
     { marca: "Riiffs", nome: "Avant Garde", categoria: "VERSATIL" },
     { marca: "Afnan", nome: "Modest une", categoria: "VERSATIL" },
